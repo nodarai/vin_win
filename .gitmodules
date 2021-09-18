@@ -1,0 +1,3 @@
+[submodule "magtifun"]
+	path = magtifun
+	url = git@github.com:Tornike-Skhulukhia/magtifun_api.git

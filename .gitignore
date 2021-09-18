@@ -1,0 +1,6 @@
+vin.json
+.venv/
+__pychache__/
+*.pyc
+.vscode/
+.env
